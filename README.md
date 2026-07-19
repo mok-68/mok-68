@@ -1,8 +1,8 @@
-# 👋 สวัสดีวัยรุ่น! mok-68 มาแล้วเว้ย!
+# พี่มาแล้วน้องงงงงงงง
 
 <!-- 1. รูป GIF ต้อนรับดุ๊กดิ๊ก (เปลี่ยน URL รูปได้ตามใจชอบ) -->
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnd6MTdwazRrN3Ewdnp1azV1czF1czF1czF1czF1czF1czF1cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKSjRrfIPJeiW9G/giphy.gif" width="400" alt="Welcome GIF">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=F7A21D&center=true&vCenter=true&width=600&lines=%F0%9F%91%8B+%E0%B8%A1%E0%B8%B1%E0%B8%99%E0%B8%AA%E0%B9%8C%E0%B9%86+%E0%B8%88%E0%B8%A7%E0%B8%A2%E0%B9%80%E0%B8%AD%E0%B9%8A%E0%B8%A2%E0%B8%A2%E0%B8%A2%E0%B8%A2!;%F0%9F%9A%80+%E0%B8%AA%E0%B8%A7%E0%B8%B1%E0%B8%AA%E0%B8%94%E0%B8%B5%E0%B8%A7%E0%B8%B1%E0%B8%A2%E0%B8%A3%E0%B8%B8%E0%B9%8C%E0%B8%99%E0%B8%84%E0%B8%A3%E0%B8%B1%E0%B8%96!;%F0%9F%92%BB+mok-68+%E0%B8%A1%E0%B8%B2%E0%B9%81%E0%B8%A5%E0%B9%89%E0%B8%A7%E0%B9%80%E0%B8%A7%E0%B9%82%E0%B8%A2%E0%B8%A5%E0%B8%B8%E0%B9%88%E0%B8%99%E0%B8%81%E0%B8%B9!" alt="Typing SVG" />
 </div>
 
 ---
