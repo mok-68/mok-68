@@ -24,14 +24,7 @@
 
 ---
 
-### 📊 GitHub Stats (ขยับๆ ดึงข้อมูลสดๆ)
-<div align="center">
-  <!-- การ์ดสถิติแบบมี Animation เวลาโหลด -->
-  <img src="https://github-readme-stats.vercel.app/api?username=mok-68&show_icons=true&theme=radial&count_private=true&hide_title=true" alt="GitHub Stats">
-  &nbsp;&nbsp;
-  <!-- กราฟภาษาที่ใช้บ่อย แบบมี Animation เลื่อนๆ -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mok-68&layout=compact&theme=radial&hide_title=true" alt="Top Langs">
-</div>
+
 
 ---
 
