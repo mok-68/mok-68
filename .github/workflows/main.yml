@@ -5,7 +5,6 @@ on:
     - cron: "0 0 * * *" # รันทุกเที่ยงคืน
   workflow_dispatch:
 
-# 🚨 เพิ่มบล็อกนี้เข้าไปเพื่อบังคับสิทธิ์โดยตรงในโค้ด
 permissions:
   contents: write
 
@@ -14,15 +13,18 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
+      
+      # 1. บอทเจนรูปงู
       - uses: Platane/snk@v3
         with:
           github_user_name: mok-68
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?color_snake=#7928CA&color_dots=#EBEDF0,#9BE9A8,#40C463,#30A14E,#216E39
-      - uses: crazy-max/ghaction-github-pages@v3.1.0
+            
+      # 2. ใช้บอทตัวนี้แทน ดันไฟล์เข้า branch output ง่ายกว่าเยอะ!
+      - uses: peaceiris/actions-gh-pages@v3
         with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
+          publish_branch: output
