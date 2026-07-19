@@ -5,6 +5,10 @@ on:
     - cron: "0 0 * * *" # รันทุกเที่ยงคืน
   workflow_dispatch:
 
+# 🚨 เพิ่มบล็อกนี้เข้าไปเพื่อบังคับสิทธิ์โดยตรงในโค้ด
+permissions:
+  contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
